@@ -88,7 +88,7 @@ Infura Sepolia Endpoint
 
 Etherscan Verified
 
-GitHub Repository: https://github.com/YOUR_USERNAME/QuantumReserveToken
+GitHub Repository: https://github.com/arafateasin/QuantumReserveToken.git
 
 🔹 10. Legal Disclaimer
 QuantumReserveToken (QRT) is provided “as is” without any warranties. The team does not guarantee token price performance or future listing. This is not investment advice. Ensure compliance with local laws before participating.
